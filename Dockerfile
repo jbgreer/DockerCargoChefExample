@@ -1,3 +1,5 @@
+# STOLEN from Chris Hays:  see youtube.com/watch?v=xuqolj01D7M
+
 # STAGE 1 : analyze source using rust image and cargo-chef
 FROM rust as planner
 
